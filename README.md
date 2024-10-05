@@ -14,7 +14,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
+
 - This is a solution to a QR code component challenge on Frontend Mentor. Involves using HTML and CSS only to create a webpage of a QR code component. 
+
 ### Screenshot
 
 ![](qr-solution.png)
